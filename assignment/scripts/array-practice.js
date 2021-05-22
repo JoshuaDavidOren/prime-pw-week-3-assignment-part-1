@@ -8,7 +8,7 @@ let animalArray = ['fish', 'cat', 'bird', 'dog'];
 console.log('Animals are: ', animalArray);
 
 // 1.a. TODO: Make an array with some favorite foods
-let favoriteFood = ['Ramen', 'Fried Chicken', 'Steak', 'Pizza']
+let favoriteFood = ['Ramen', 'Fried Chicken', 'Steak', 'Pizza'];
 
 // 1.b. TODO: Log your array of foods to the console with a message, similar
 //      to the example above
@@ -81,5 +81,6 @@ console.log('The animals are now', animalArray);
 // 4.d TODO: Remove the food at the beginning of your array &
 //     log both the food removed and the updated array
 favoriteFood.shift();
-console.log( " I have been informed smoothies do not count as a favorite food because it's a drink. ");
+console.log( " I have been informed smoothies do not count as a favorite food becauseatom .
+ it's a drink. ");
 console.log( "Favorite foods once again reads:", favoriteFood);
